@@ -7,7 +7,7 @@ MERGE (:Place {name: "Warsaw"});
 MERGE (:Place {name: "Poland"});
 MERGE (: Prize {name: "Nobel Prize in Chemistry"});
 MERGE (: Prize {name: "Nobel Prize in Physics"});
-MERGE (:Profession {name: "Physicist",})
+MERGE (:Profession {name: "Physicist"})
 
 // ===== Properties =====
 
